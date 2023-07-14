@@ -1,0 +1,21 @@
+{
+  "name": "dovolen-toboy",
+  "displayName": "Dovolen toboy",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dovolen soboy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dovolen soboy-color-theme.json"
+      }
+    ]
+  }
+}
