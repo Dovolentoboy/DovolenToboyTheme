@@ -2,13 +2,19 @@
   "name": "dovolen-toboy",
   "displayName": "Dovolen toboy",
   "description": "",
-  "version": "0.0.1",
+  "version": "1.0.2",
+  "publisher": "Dovolentoboy",
+  "icon": "power.jpg",
   "engines": {
     "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dovolentoboy/DovolenToboyTheme.git"
+  },
   "contributes": {
     "themes": [
       {
