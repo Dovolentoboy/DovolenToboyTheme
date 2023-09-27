@@ -1,16 +1,19 @@
-# dovolen-toboy README
+## Обновление 3.0.0
+У МЕНЯ ОПЯТЬ ПОЯВИЛСЯ ЛОГОТИП И ОН ОЧЕНЬ КЛАССНЫЙ
+ГРЕЧА ГК, Я ТЕБЯ ТАК ЛЮБЛЮ, НОГИ И ПОПУ ЦЕЛОВАТЬ ТЕБЕ БУДУ. Лучший просто <br>
 
-## Working with Markdown
+<img src='https://media.discordapp.net/attachments/1105463105699467325/1141344496748085258/image.png?width=456&height=456'>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Обновление 2.0.0
+Вот прикиньте, теперь у меня есть свой логотип : ) <br>
+Grecha Gk спасибо тебе за старания : ) <br>
+Люблю , целую , обнимаю
 
-## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Ну кароче, моя тема )
+## Интересно, кто-то её найдет?
+## Ну если найдете,то напишите в дискорд `.dovolentoboy`
 
-**Enjoy!**
+***С любовью Dovolen toboy :)***
+

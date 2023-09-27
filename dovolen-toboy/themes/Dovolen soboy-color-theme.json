@@ -1,10 +1,16 @@
 {
 	"name": "Dovolen toboy",
 	"colors": {
-		"editor.background": "#1e2224",
-		"editor.foreground": "#ffffff",
-		"activityBarBadge.background": "#111213",
-		"sideBarTitle.foreground": "#c3e7cc"
+		"editor.background": "#282b2c",
+		"tab.hoverBackground": "#c7cabd",
+		"editor.foreground": "#f6f1f1",
+		"activityBarBadge.background": "#0a0b0c",
+		"panel.background": "#282b2c",
+		"sideBar.background": "#232526",
+		"sideBarTitle.foreground": "#fafafa",
+		"activityBar.background": "#282b2c",
+		"activityBar.activeBorder": "#e7e1e1",
+		"statusBar.background": "#333232",
 	},
 	"tokenColors": [
 		{
@@ -19,13 +25,23 @@
 			}
 		},
 		{
+			"name": "Panel",
+			"scope": [
+				""
+			],
+			"settings": {
+				"foreground": "#ffffff",
+				"fontStyle": "bold"
+			}
+		},
+		{
 			"name": "Variables",
 			"scope": [
 				"variable",
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#1b69cf"
+				"foreground": "#139dff"
 			}
 		},
 		{
@@ -82,7 +98,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#03feaa"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -93,7 +109,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#d1bdb7"
+				"foreground": "#de5b4d"
 			}
 		},
 		{
@@ -106,7 +122,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#20f39b"
+				"foreground": "#13f295"
 			}
 		},
 		{
@@ -115,7 +131,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#235d37"
+				"foreground": "#25f76f"
 			}
 		},
 		{
@@ -125,7 +141,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#20f39b"
+				"foreground": "#29fea5"
 			}
 		},
 		{
@@ -195,7 +211,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#69aab3"
 			}
 		},
 		{
@@ -245,7 +261,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#1996b9"
 			}
 		},
 		{
@@ -256,7 +272,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
+				"foreground": "#0ce50c"
 			}
 		},
 		{
@@ -265,7 +281,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#4ad7ea"
 			}
 		},
 		{
@@ -274,7 +290,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#4ad7ea"
 			}
 		},
 		{
@@ -369,7 +385,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#6bcbff"
 			}
 		},
 		{
@@ -378,7 +394,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#19ea65"
 			}
 		},
 		{
