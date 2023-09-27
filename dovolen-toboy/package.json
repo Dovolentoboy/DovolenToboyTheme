@@ -2,9 +2,13 @@
   "name": "dovolen-toboy",
   "displayName": "Dovolen toboy",
   "description": "",
+
   "version": "3.2.0",
   "publisher": "Dovolentoboy",
   "icon": "NewLogoByGrecha.png",
+  "version": "1.0.2",
+  "publisher": "Dovolentoboy",
+  "icon": "power.jpg",
   "engines": {
     "vscode": "^1.80.0"
   },
